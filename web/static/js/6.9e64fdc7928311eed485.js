@@ -1,0 +1,2 @@
+webpackJsonp([6],{BWhR:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"user-page"},[t("router-view")],1)},staticRenderFns:[]};var a=r("vSla")({name:"user"},n,!1,function(e){r("rgNx")},"data-v-60348404",null);t.default=a.exports},rgNx:function(e,t){}});
+//# sourceMappingURL=6.9e64fdc7928311eed485.js.map
